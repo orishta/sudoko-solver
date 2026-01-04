@@ -33,6 +33,4 @@ and prompt you for input when necessary.
 * Python 3.9 or newer  
 * No external libraries needed
 
-## Author
 
-Ori Shtalhaim –  2025
